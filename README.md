@@ -14,3 +14,7 @@ Run the program using:
 
 ```bash
 python passwordvoting.py
+```
+
+### Author
+Suryansh Sinha (sinxcos07)
